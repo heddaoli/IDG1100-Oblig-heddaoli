@@ -1,0 +1,14 @@
+1. What components are part of the Von Neuman Architecture?
+The components that are part of the Von Neuman Architecture is composed of three distinct components: (CPU), memory, and input/output (I/O) interfaces.
+
+2. What is user space?
+User space is system memory allocated to running applications. 
+
+3. What is the shell?
+A shell is a software interface that's often a command line interface that enables the user to interact with the computer.
+
+4. Where is the shell located?
+The system default shell is defined in /etc/default/useradd file.
+
+5. What is the main task of the shell?
+A shell is a program whose primary purpose is to read commands and run other programs.
